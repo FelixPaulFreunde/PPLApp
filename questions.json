@@ -1,0 +1,13 @@
+[
+  {
+    "set": "Navigation V1",
+    "question": "What is the primary purpose of VOR navigation?",
+    "options": [
+      "To determine ground speed",
+      "To provide precise directional guidance to/from a ground station",
+      "To measure distance only",
+      "To communicate with ATC"
+    ],
+    "correctAnswer": 1
+  }
+]
